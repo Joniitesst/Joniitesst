@@ -21,11 +21,11 @@
 ## Estadísticas de GitHub 👾
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joniitesst&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Joniitesst&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
 </div>
