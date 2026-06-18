@@ -30,6 +30,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Joniitesst&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 ---
+
 ## 📬 Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanfdzprz@gmail.com)
